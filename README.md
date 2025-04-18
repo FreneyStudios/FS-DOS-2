@@ -1,3 +1,14 @@
+# Important
+We tried to compile this good-looking
+piace of software for it's Linux like style with GCC, Make, Nasm and core'utils.
+
+But compilation failed so this is just for
+reference.
+
+The code is untouched
+
+
+# Old README
 # Cave-Like Operating System
 cavOS is a POSIX-compliant operating system in C. An active effort of making a full OS, with a simple and readable codebase.
 
